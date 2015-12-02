@@ -13,7 +13,6 @@ public class Anlage {
 		this.initialWert = initialWert;
 		this.nutzungsdauer = nutzungsdauer;
 		this.restWert = initialWert;
-		this.alter = alter;
 	}
 
 	public String getBezeichnung() {
